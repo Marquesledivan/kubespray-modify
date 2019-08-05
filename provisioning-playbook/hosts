@@ -1,0 +1,10 @@
+[local]
+localhost ansible_connection=local ansible_python_interpreter=python gather_facts=False
+
+[ledivanKubernetes]
+172.31.11.197
+172.31.3.114
+172.31.6.59
+54.233.106.44
+18.231.176.26
+52.67.4.226

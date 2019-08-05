@@ -1,0 +1,6 @@
+instance_type: t2.xlarge
+security_group: ledivanKubernetes
+image: ami-0be3df9b8bb0a5f23
+keypair: docker.pem
+region: sa-east-1
+count: 3
